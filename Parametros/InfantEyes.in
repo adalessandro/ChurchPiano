@@ -1,0 +1,7 @@
+Inf = (1,C)
+InputLHV = Inputs/InputLHV.in
+InputESC = Inputs/InputESC.in
+InputFRA = Inputs/InputFRA.in
+InputMelodia = Midis/InfantEyes.mid
+InputArmonia = Midis/InfantEyes.co
+OutputFile = output.mid
